@@ -2,7 +2,14 @@
 layout: post
 title:  "Programar es cosa de niños"
 date:   2015-06-18 12:00:00 -0500
-categories: educación IIIEPE programación
+description: 'Tecnofilia'
+tags:
+- programación
+- educación 
+- IIIEPE 
+categories: 
+- Tecnofilia
+twitter_text: 'Programar es cosa de niños'
 ---
 Hoy en día, con los avances tecnológicos con que contamos, no es posible imaginar estudiar una carrera que no esté relacionada de alguna forma con la tecnología. Las computadoras están tan presentes en nuestra vida cotidiana, que interactuamos con ellas todos los días, casi todo el tiempo; en nuestro trabajo, en nuestro coche, en el entretenimiento, o incluso en la manera en que nos relacionamos con otras personas. Todo esto propicia que cada vez se necesiten más y más profesionales que cubran el gran campo laboral de expertos en informática, que surge por esta gran demanda que generamos de tecnología.
 
